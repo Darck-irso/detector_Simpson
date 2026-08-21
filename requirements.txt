@@ -1,0 +1,8 @@
+tensorflow==2.21.0
+keras==3.15.0
+ultralytics==8.4.104
+gradio==6.20.0
+opencv-python-headless==5.0.0.93
+numpy==2.4.4
+Pillow==12.2.0
+imageio-ffmpeg==0.6.0
