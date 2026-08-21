@@ -1,0 +1,31 @@
+# Entorno virtual
+.venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales
+*.tmp
+*.temp
+temp/
+tmp/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Salidas generadas
+video_anotado*.mp4
+imagen_anotada*.jpg
+personajes_reconocidos*.jpg
+
+# Logs
+*.log
