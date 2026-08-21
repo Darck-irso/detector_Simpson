@@ -16,8 +16,8 @@ if not exist ".venv\Scripts\python.exe" (
     exit /b 1
 )
 
-if not exist "main.py" (
-    echo ERROR: No se encontro main.py. Por favor, asegurese de que el archivo exista en el directorio actual.
+if not exist "app.py" (
+    echo ERROR: No se encontro app.py. Por favor, asegurese de que el archivo exista en el directorio actual.
     echo.
     pause
     exit /b 1

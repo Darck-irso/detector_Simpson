@@ -30,7 +30,14 @@ La aplicación requiere los siguientes archivos:
 
 ## Instalación
 
-### Windows PowerShell
+### Inicio rápido en Windows
+
+1. Descarga o clona el repositorio.
+2. Ejecuta `setup.bat` una sola vez para crear el entorno virtual e instalar las dependencias.
+3. Ejecuta `run.bat` para iniciar la aplicación.
+4. Abre en el navegador la dirección mostrada en la consola.
+
+### Instalación manual en Windows PowerShell
 
 ```powershell
 python -m venv .venv
@@ -148,3 +155,10 @@ Esta matriz utiliza las 20 clases representadas en el test externo. El clasifica
 ## Aviso
 
 Proyecto personal de experimentación con Deep Learning. Los personajes y elementos visuales de Los Simpsons pertenecen a sus respectivos titulares. El repositorio no distribuye el dataset de entrenamiento ni los videos utilizados para evaluar el modelo.
+
+
+## Licencia
+
+El código fuente de este proyecto se distribuye bajo la licencia MIT.
+
+Los personajes, nombres, imágenes y demás elementos relacionados con Los Simpsons pertenecen a sus respectivos titulares. La licencia MIT de este repositorio no concede derechos sobre dichos elementos.
